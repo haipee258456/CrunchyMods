@@ -1,0 +1,12 @@
+{
+  "name": "crunchyroll-api-proxy",
+  "version": "11.0.0",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
